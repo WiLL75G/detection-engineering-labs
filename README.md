@@ -7,7 +7,7 @@ Hands on detection engineering and SOC analysis labs. Each lab runs a real attac
 | Lab | Focus | Platform | MITRE | Status |
 | --- | --- | --- | --- | --- |
 | [01 Wazuh SSH Brute Force](01-wazuh-ssh-bruteforce/) | Detecting a brute force through to confirmed compromise | Wazuh 4.14.6 | T1110 | Complete |
-| 02 ServiceNow ITSM Incident Lifecycle](02-servicenow-itsm/) | Working a security incident New to Closed with SLA tracking | ServiceNow | T1110 | Complete |
+| 02 ServiceNow ITSM Incident Lifecycle | Working a security incident New to Closed with SLA tracking | ServiceNow | T1110 | Planned |
 | 03 Suricata IDS | Writing and tuning network intrusion detection rules | Suricata | planned | Planned |
 | 04 PowerShell Investigation | Investigating suspicious PowerShell with process telemetry | Windows, Sysmon | planned | Planned |
 
