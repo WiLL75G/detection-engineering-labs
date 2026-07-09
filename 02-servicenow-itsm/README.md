@@ -30,7 +30,7 @@ On 08 July 2026, the SSH brute-force compromise of host ubuntu-agent (detected b
 
 Before creating any records, the instance's out-of-box state was captured. The Incident table shipped with 67 demo incidents, all generic IT issues (email outages, file share access, SAP availability). None were security incidents, giving a clean reference point against which the SOC ticket would stand out.
 
-![Baseline incident list](screenshots/01_baseline_incident_list.png)
+![Baseline incident list](screenshots/01_baseline_incident_lists.png)
 
 **SOC Observations**
 
