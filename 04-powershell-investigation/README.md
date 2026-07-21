@@ -13,7 +13,7 @@ An opaque base64 blob on the command line, recovered in full plaintext one secon
 | Behaviors | Encoded command, download cradle, discovery sequence |
 | MITRE | T1059.001, T1105, T1033, T1082, T1087 |
 | Centerpiece | Base64 command recovered in plaintext from 4104 |
-| Date | 09 July 2026 |
+| Date | 10 July 2026 |
 
 ## What This Is
 
@@ -38,7 +38,7 @@ The finding that carries the lab is the recovery of the encoded command in plain
 | Telemetry (host) | Sysmon Operational log, Event ID 1 |
 | Telemetry (PowerShell) | PowerShell Operational log, Event ID 4104 |
 | PowerShell version | 5.1 |
-| Date | 09 July 2026 |
+| Date | 10 July 2026 |
 
 ## Investigation Methodology
 
